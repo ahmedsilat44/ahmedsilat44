@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **ahmedsilat44@gmail.com**
 
+- 📜 <a href="https://rxresu.me/talisdemha/software-engineer" download>My Resume</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/AhmedSilat3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedsilat3" height="30" width="40" /></a>
