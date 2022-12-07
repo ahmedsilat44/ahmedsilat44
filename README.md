@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Currency Convertor](https://github.com/ahmedsilat44/Currency-convertor)
 
-- 🌱 I’m currently learning **WordPress**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **ahmedsilat44@gmail.com**
 
