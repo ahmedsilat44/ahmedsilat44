@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmed</h1>
 <h3 align="center">I Code to learn how to Code.</h3>
 
-- 🌱 I’m currently exploring **Computer Vision**
+- 🌱 I’m currently exploring **Computer Graphics in WebGL**
 
 - 📫 How to reach me **ahmedsilat44@gmail.com**
 
