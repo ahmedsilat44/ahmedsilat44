@@ -21,3 +21,5 @@
 [comment]: <> ( <p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=ahmedsilat44&show_icons=true&locale=en" alt="ahmedsilat44" /></p>)
 
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsilat44&" alt="ahmedsilat44" /></p>
+
+[![](https://komarev.com/ghpvc/?username=ahmedsilat44&icon=0&color=0)](https://visitcount.itsvg.in)
